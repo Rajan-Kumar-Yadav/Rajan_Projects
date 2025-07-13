@@ -1,0 +1,41 @@
+.todo-container {
+margin: 10px;
+}
+.text-input{
+  margin: 5px;
+  width: 150px;
+}
+.date-input {
+  margin: 5px;
+  width: 150px;
+}
+.add-button{
+margin: 10px;
+width: 65px;
+border-radius: 5px;
+background-color: rgb(118, 223, 118);
+border: none;
+height: 35px;
+}
+.item-container {
+ margin: 10px;
+}
+.todo-item {
+margin-right: 100px;
+}
+.todo-date {
+margin-right: 80px;
+}
+.delete-button {
+margin-right: 15px;
+border-radius: 5px;
+background-color: rgb(232, 70, 70);
+border: none;
+height: 35px;
+text-align: center;
+width: 65px;
+
+}
+.todo-item {
+  width: 500px;
+}
